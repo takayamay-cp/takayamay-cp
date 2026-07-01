@@ -21,7 +21,7 @@ Java 10年超 × 生成AI活用による業務自動化が専門です。
 　 実運用版は個人の副業・投資用途で現在も稼働中です。
 
 ## 📬 Contact
-副業・業務委託のご相談はFindy Freelanceまたはメッセージにてどうぞ。
+副業・業務委託のご相談はメールでお願いいたします。
 
 <!--
 **takayamay-cp/takayamay-cp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
